@@ -1,4 +1,5 @@
 .env
+.eigenlayer
 
 # Ignore points so that they don't come up in git changes
 resources/g1.point
