@@ -1,5 +1,6 @@
 .env
 .eigenlayer
+docker-compose.yml
 
 # Ignore points so that they don't come up in git changes
 resources/g1.point
